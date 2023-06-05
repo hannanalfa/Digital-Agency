@@ -1,0 +1,38 @@
+#logo {
+  width: 100px;
+  height: 100px;
+}
+#section1 {
+  background-image: url(/images/pic1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+nav {
+  border-bottom: 2px solid green;
+}
+
+#section2 {
+  background-color: gray;
+  height: 100px;
+}
+
+#section3 {
+  height: 600px;
+  background-image: url("/images/pic3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  border-radius: 0px;
+}
+
+#section4 {
+  height: 600px;
+
+  border-radius: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
